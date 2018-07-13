@@ -1,0 +1,20 @@
+/* h1 {
+    font-size: 80px;
+} */
+
+.h1 {
+    font-size: 22px;
+}
+
+h2 {
+    font-size: 14px;
+    font: normal;
+}
+
+span {
+    font-size: 36px;
+}
+
+p {
+    font-family: "Times New Roman", Times, Serif;
+}
